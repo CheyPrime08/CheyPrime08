@@ -20,7 +20,7 @@ Student and apprentice of the technological world that is created before our bei
 
 ### Languages:
 <img align="left" alt="c++" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />  
-  
+<img align="left" alt="Java" width="50px" src=https://static-00.iconduck.com/assets.00/java-icon-2048x2048-yxty4s2p.png >
 <br> 
 
 ![4mXD](https://github.com/CheyPrime08/CheyPrime08/assets/150537276/fa8434e1-ab6d-46b6-beed-5367414e06f4)
