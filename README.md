@@ -16,8 +16,6 @@ Student and apprentice of the technological world that is created before our bei
 - 😄 Pronouns: He/Him
 - ⚡ Fun Fact: I'm very adventurous and a fan of experiencing new things, but I'm scared of almost everything XD
 - ❤️‍🩹 Proving that I want to survive and not stand out
-- lololo
-
 
 ### Languages:
 <img align="left" alt="c++" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />  
