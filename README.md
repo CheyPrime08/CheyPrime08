@@ -16,6 +16,7 @@ Student and apprentice of the technological world that is created before our bei
 - 😄 Pronouns: He/Him
 - ⚡ Fun Fact: I'm very adventurous and a fan of experiencing new things, but I'm scared of almost everything XD
 - ❤️‍🩹 Proving that I want to survive and not stand out
+- lololo
 
 
 ### Languages:
